@@ -4,7 +4,7 @@
   <strong> My security fixes and hardening for Infrastructure, identity, authentication, authorization, and cloud security.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-27-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-28-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-7-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
 
 </p>
@@ -29,13 +29,15 @@
 -  Provider issue - Fix web identity token configuration [#49744](https://github.com/hashicorp/terraform-provider-aws/pull/49744)
 
 ### Home Assistant Core
-> 5 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
+> 6 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
 
 - Google Sheets OAuth recovery fix for safe re-authentication and retry behavior [#165000](https://github.com/home-assistant/core/pull/165000)
 - Google Mail token-refresh handling fix preserving correct re-authentication and fallback behavior [#165371](https://github.com/home-assistant/core/pull/165371)
 - Redact Z-Wave add-on options sensitive error details [#167239](https://github.com/home-assistant/core/pull/167239#event-24308447552)
 - Remove Supervisor refresh tokens  [#179219](https://github.com/home-assistant/core/pull/179219)
 - Abode: report change setting failures [#179756](https://github.com/home-assistant/core/pull/179756)
+- Normalize Hive auth username before login [#168827](https://github.com/home-assistant/core/pull/168827)
+
 
 ---
 
