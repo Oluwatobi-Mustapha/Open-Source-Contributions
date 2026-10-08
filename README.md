@@ -4,13 +4,13 @@
   <strong> My security fixes and hardening for Infrastructure, identity, authentication, authorization, and cloud security.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-28-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-29-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
   <img src="https://img.shields.io/badge/PROJECTS-7-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
 
 </p>
 
 ### Keycloak
-> 9 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX
+> 10 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX · API
 
 - OID4VCI authorization hardening for decentralized identity issuance [#46690](https://github.com/keycloak/keycloak/pull/46690)
 - FGAP enforcement fix for user membership updates [#46957](https://github.com/keycloak/keycloak/pull/46957)
@@ -21,6 +21,9 @@
 - Admin UI pagination fix for client-session auditing [#46889](https://github.com/keycloak/keycloak/pull/46889)
 - Organization-scoped membership resolution fix [#47083](https://github.com/keycloak/keycloak/pull/47083)
 - Allow organization IdPs for members linked to another broker [#47634](https://github.com/keycloak/keycloak/pull/47634)
+- Restrict Twitter request token deserialization [#51750](https://github.com/keycloak/keycloak/pull/51750)
+
+
 
 ---
 ### Terraform
