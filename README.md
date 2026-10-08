@@ -10,7 +10,7 @@
 </p>
 
 ### Keycloak
-> 10 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · admin UX · API
+> 10 merged PRs · decentralized identity · FGAP · token exchange · OIDC fidelity · session integrity · UI/UX · API
 
 - OID4VCI authorization hardening for decentralized identity issuance [#46690](https://github.com/keycloak/keycloak/pull/46690)
 - FGAP enforcement fix for user membership updates [#46957](https://github.com/keycloak/keycloak/pull/46957)
